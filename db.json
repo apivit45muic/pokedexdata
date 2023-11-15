@@ -16,6 +16,14 @@
       "evolution": "Charizard evolves from Charmeleon starting at level 36. It is the final form of Charmander.",
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png"
     },
+      {
+      "name": "Blastoise",
+      "type1": "Water",
+      "type2": "",
+      "jpname": "Kamex",
+      "evolution": "Blastoise evolves from Wartortle starting at level 36. Blastoise can further evolve into Mega Blastoise using the Blastoisinite.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/96/011.png/revision/latest?cb=20230417234945"
+    },
     {
       "name": "Butterfree",
       "type1": "Bug",
